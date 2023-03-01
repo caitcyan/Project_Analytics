@@ -17,9 +17,13 @@ Dataset [aquí](https://pypi.org/project/yfinance/).
  
 -Pasos que realicé:
 1. Descarga de la información usando pandas a variables en mi notebook EDA.ipynb.
-2. Analisis exploratorio de los datos en mi notebook, ya sea análisis univariado o correlaciones.
+2. Análisis exploratorio de los datos en mi notebook, ya sea análisis univariado o correlaciones.
 3. Guardado del archivo SelectedCompanies.csv y dffiltrado.csv. 
 4. Creación del dashboard en POWER BI.
+5. Creación de columna Index en cada tabla.
+6. Creación de Measures en cada tabla. 
+7. Creación de KPIS.
+8. Creación de gráficos.
 
 <p> Comentarios: Este dataset agrupa la información de las 503 empresas como si fuese una sola. Empleé la media móvil pues es una media confiable para ver las tendencias alcistas o bajistas de las empresas en el tiempo.  </p>
 
