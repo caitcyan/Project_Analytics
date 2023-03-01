@@ -41,7 +41,7 @@ En el año 2008, hubo una crisis en Estados Unidos. Hubo un colapso de la burbuj
 <div align="center">
 <img src=./images/covid.jpg alt= “” width=300 height=150>
 </div>
-También vemos que los precios se incrementaron en el tiempo, existiendo una pequeña caída desde el 2022. </p> 
+También vemos que los precios se incrementaron en el tiempo, existiendo una pequeña caída desde el 2022. En general las principales bolsas del mundo han experimentado esta caída. (https://www.eleconomista.com.mx/mercados/Caidas-en-las-bolsas-de-valores-en-2022-ano-de-resultados-negativos-20230104-0044.html) </p> 
 
 >Por qué existe la tendencia alcista en las empresas?
 
