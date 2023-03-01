@@ -9,6 +9,7 @@ Dataset [aquí](https://pypi.org/project/yfinance/).
 -Carpeta del proyecto:
 
 -PROJECT_ANALYTICS
+- images
 - EDA.ipynb
 - Dashboard.pbix
 - SelectedCompanies.csv
