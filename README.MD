@@ -1,4 +1,4 @@
-### ✨ ✨ Bienvenidos a mi proyecto de Data Analytics ✨ ✨*
+### ✨ ✨ Bienvenidos a mi proyecto de Data Analytics ✨ ✨
 <p> <span style="color:#53e3d4"> Autora: Natalia Gomez </span></p>
 <p>
 El proyecto trató de analizar la base de datos provista por Yahoo Finance.
